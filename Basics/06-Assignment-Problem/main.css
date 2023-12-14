@@ -1,0 +1,12 @@
+#assignment-instructions {
+  color: teal;
+  font-family: serif;
+}
+code {
+  color: red;
+  font-family: monospace;
+}
+
+.second_li code {
+  color: green;
+}
